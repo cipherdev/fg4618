@@ -1,0 +1,1 @@
+"./main.obj" "./TIME_CLOCK.obj" "./SHOW_LCD.obj" "./INTERRUP.obj" "./GPIO.obj" -l"libc.a" "../lnk_msp430fg4618.cmd" 
